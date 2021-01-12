@@ -2,9 +2,13 @@
 
 
 - I have a master's degree in data science, specializing in health
+- I have experience in :
+    - NLP
+    - Statistics
+    - Gentics/ Biology
+- I'm open to new opportunities in Data Science
 
-Here are some ideas to get you started:
-
+<!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+--->
