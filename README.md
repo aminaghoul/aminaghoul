@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- I have a master's degree in data science, specializing in health
+- I have a **master's degree in data science**, specializing in health
 - I have experience in :
-    - NLP
-    - Statistics
-    - Gentics/ Biology
-- I'm open to new opportunities in Data Science
+    - **NLP**
+    - **Statistics**
+    - **Genetics/ Biology**
+- I'm open to **new opportunities** in **Data Science**
 
 <!---
 - 🔭 I’m currently working on ...
